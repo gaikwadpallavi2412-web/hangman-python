@@ -32,3 +32,11 @@ This project is built for learning and practicing **Python fundamentals**, inclu
    ```bash
    python --version
 
+2. Clone the repository:
+   git clone https://github.com/gaikwadpallavi2412-web/hangman-python.git
+
+3. Navigate to the project directory:
+   cd hangman-python
+
+4. Run the game:
+   python hangman.py
